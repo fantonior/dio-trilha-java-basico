@@ -15,7 +15,7 @@
       "name": "AboutMe",
       "request": "launch",
       "mainClass": "AboutMe",
-      "args": ["Antonio", "Rodrigues", "50", "1.78"],
+      "args": ["Antonio", "Rodrigues", "25", "1.88"],
       "projectName": "AboutMe_662bad06"
     }
   ]
